@@ -1,0 +1,8 @@
+haversine
+scikit-learn==1.1.2
+xgboost
+seaborn 
+pandas
+numpy
+matplotlib
+ipykernel
